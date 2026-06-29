@@ -1,1 +1,0 @@
-# build-coinmarketcap-clone-nextjs
